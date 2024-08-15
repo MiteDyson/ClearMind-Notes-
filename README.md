@@ -6,8 +6,8 @@ This repository contains the implementation of a dynamic mood-based customizatio
 
 ## Demo
 
-[Demo Video](demo-video.mp4)
--
+[Demo Video](https://github.com/user-attachments/assets/1ecb2e57-911d-4ecd-acee-04a011b585ae)
+
 
 ## Mood Screens
 
